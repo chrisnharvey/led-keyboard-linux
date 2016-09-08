@@ -1,0 +1,8 @@
+"xset led 3"
+    m:0x10 + c:78
+    Mod2 + Scroll_Lock
+
+"xset -led 3"
+    m:0x10 + c:127
+    Mod2 + Pause
+
