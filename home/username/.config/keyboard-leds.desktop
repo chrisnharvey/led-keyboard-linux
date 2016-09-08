@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Keyboard LEDs
+Comment=Bind keys for turning keyboard LEDs on and off
+Exec=/opt/keyboard-leds/init.sh
+X-GNOME-Autostart-enabled=true
