@@ -11,11 +11,5 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 
-"xset led 3"
-    m:0x10 + c:78
-    Mod2 + Scroll_Lock
-
-"xset -led 3"
-    m:0x10 + c:127
-    Mod2 + Pause
+xbindkeys -f /opt/keyboard-leds/xbindkeysrc
 
